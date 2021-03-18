@@ -1,5 +1,7 @@
 # Graph_mining
 
-all hw, projects are based on Stock
+All HW, projects are about Stock
+
 ---
 ## HW1 for powerlog plot
+  price fluctuation and number
