@@ -6,6 +6,3 @@
 - set up condition to increase the deviation between rise and fall
 
 ---
-## Project
-- improve a choosen paper which is relevant to graph
-- Paper : Interpretable Feature Learning of Graphs using Tensor Decomposition
